@@ -1,0 +1,7 @@
+package com.thaibinhnhien.entity;
+
+
+@Entity
+public class Category {
+
+}

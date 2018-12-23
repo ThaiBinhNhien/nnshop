@@ -1,0 +1,5 @@
+package com.thaibinhnhien.dao;
+
+public class CategoryDAO {
+
+}

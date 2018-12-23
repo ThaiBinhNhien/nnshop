@@ -1,0 +1,5 @@
+package com.thaibinhnhien.entity;
+
+public class Product {
+
+}

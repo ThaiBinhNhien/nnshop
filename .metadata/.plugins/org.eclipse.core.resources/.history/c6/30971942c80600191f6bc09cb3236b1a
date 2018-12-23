@@ -1,0 +1,13 @@
+package com.thaibinhnhien.entity;
+
+
+@Entity
+public class Category {
+
+	private int idCategory;
+	
+	private String nameCategory;
+	
+	
+	private int status;
+}
