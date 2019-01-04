@@ -9,41 +9,42 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-<link rel="icon" type="image/png" href="images/icons/favicon.png" />
+<link rel="icon" type="image/png" href="../images/icons/favicon.png" />
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="vendor/bootstrap/css/bootstrap.min.css">
+	href="../vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	href="../fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="fonts/themify/themify-icons.css">
+	href="../fonts/themify/themify-icons.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+	href="../fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="fonts/elegant-font/html-css/style.css">
-<!--===============================================================================================-->
-<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	href="../fonts/elegant-font/html-css/style.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="vendor/css-hamburgers/hamburgers.min.css">
+	href="../vendor/animate/animate.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="vendor/animsition/css/animsition.min.css">
+	href="../vendor/css-hamburgers/hamburgers.min.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="vendor/select2/select2.min.css">
-<!--===============================================================================================-->
-<link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
+	href="../vendor/animsition/css/animsition.min.css">
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
-	href="vendor/noui/nouislider.min.css">
+	href="../vendor/select2/select2.min.css">
 <!--===============================================================================================-->
-<link rel="stylesheet" type="text/css" href="css/util.css">
-<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="../vendor/slick/slick.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css"
+	href="../vendor/noui/nouislider.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="../css/util.css">
+<link rel="stylesheet" type="text/css" href="../css/main.css">
 <!--===============================================================================================-->
 </head>
 <body class="animsition">
@@ -78,7 +79,7 @@
 		<div class="wrap_header">
 			<!-- Logo -->
 			<a href="index.html" class="logo"> <img
-				src="images/icons/logo.png" alt="IMG-LOGO">
+				src="../images/icons/logo.png" alt="IMG-LOGO">
 			</a>
 
 			<!-- Menu -->
@@ -110,12 +111,12 @@
 			<!-- Header Icon -->
 			<div class="header-icons">
 				<a href="#" class="header-wrapicon1 dis-block"> <img
-					src="images/icons/icon-header-01.png" class="header-icon1"
+					src="../images/icons/icon-header-01.png" class="header-icon1"
 					alt="ICON">
 				</a> <span class="linedivide1"></span>
 
 				<div class="header-wrapicon2">
-					<img src="images/icons/icon-header-02.png"
+					<img src="../images/icons/icon-header-02.png"
 						class="header-icon1 js-show-header-dropdown" alt="ICON"> <span
 						class="header-icons-noti">0</span>
 
@@ -124,7 +125,7 @@
 						<ul class="header-cart-wrapitem">
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-01.jpg" alt="IMG">
+									<img src="../images/item-cart-01.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -136,7 +137,7 @@
 
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-02.jpg" alt="IMG">
+									<img src="../images/item-cart-02.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -148,7 +149,7 @@
 
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-03.jpg" alt="IMG">
+									<img src="../images/item-cart-03.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -186,7 +187,7 @@
 	<div class="wrap_header_mobile">
 		<!-- Logo moblie -->
 		<a href="index.html" class="logo-mobile"> <img
-			src="images/icons/logo.png" alt="IMG-LOGO">
+			src="../images/icons/logo.png" alt="IMG-LOGO">
 		</a>
 
 		<!-- Button show menu -->
@@ -194,12 +195,12 @@
 			<!-- Header Icon mobile -->
 			<div class="header-icons-mobile">
 				<a href="#" class="header-wrapicon1 dis-block"> <img
-					src="images/icons/icon-header-01.png" class="header-icon1"
+					src="../images/icons/icon-header-01.png" class="header-icon1"
 					alt="ICON">
 				</a> <span class="linedivide2"></span>
 
 				<div class="header-wrapicon2">
-					<img src="images/icons/icon-header-02.png"
+					<img src="../images/icons/icon-header-02.png"
 						class="header-icon1 js-show-header-dropdown" alt="ICON"> <span
 						class="header-icons-noti">0</span>
 
@@ -208,7 +209,7 @@
 						<ul class="header-cart-wrapitem">
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-01.jpg" alt="IMG">
+									<img src="../images/item-cart-01.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -220,7 +221,7 @@
 
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-02.jpg" alt="IMG">
+									<img src="../images/item-cart-02.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -232,7 +233,7 @@
 
 							<li class="header-cart-item">
 								<div class="header-cart-item-img">
-									<img src="images/item-cart-03.jpg" alt="IMG">
+									<img src="../images/item-cart-03.jpg" alt="IMG">
 								</div>
 
 								<div class="header-cart-item-txt">
@@ -328,7 +329,7 @@
 
 	<!-- Title Page -->
 	<section class="bg-title-page p-t-50 p-b-40 flex-col-c-m"
-		style="background-image: url(images/heading-pages-02.jpg);">
+		style="background-image: url(../images/heading-pages-02.jpg);">
 	<h2 class="l-text2 t-center">Women</h2>
 	<p class="m-text13 t-center">New Arrivals Women Collection 2018</p>
 	</section>
@@ -467,7 +468,7 @@
 							<div class="block2">
 								<div
 									class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
-									<img src="images/item-02.jpg" alt="IMG-PRODUCT">
+									<img src="../images/item-02.jpg" alt="IMG-PRODUCT">
 
 									<div class="block2-overlay trans-0-4">
 										<a href="#"
@@ -488,7 +489,8 @@
 
 								<div class="block2-txt p-t-20">
 									<a href="product-detail.html"
-										class="block2-name dis-block s-text3 p-b-5"> ${item.nameProduct} </a> <span class="block2-price m-text6 p-r-5">
+										class="block2-name dis-block s-text3 p-b-5">
+										${item.nameProduct} </a> <span class="block2-price m-text6 p-r-5">
 										$ ${item.priceProduct} </span>
 								</div>
 							</div>
@@ -595,16 +597,16 @@
 	</div>
 
 	<div class="t-center p-l-15 p-r-15">
-		<a href="#"> <img class="h-size2" src="images/icons/paypal.png"
+		<a href="#"> <img class="h-size2" src="../images/icons/paypal.png"
 			alt="IMG-PAYPAL">
-		</a> <a href="#"> <img class="h-size2" src="images/icons/visa.png"
+		</a> <a href="#"> <img class="h-size2" src="../images/icons/visa.png"
 			alt="IMG-VISA">
 		</a> <a href="#"> <img class="h-size2"
-			src="images/icons/mastercard.png" alt="IMG-MASTERCARD">
-		</a> <a href="#"> <img class="h-size2" src="images/icons/express.png"
-			alt="IMG-EXPRESS">
-		</a> <a href="#"> <img class="h-size2" src="images/icons/discover.png"
-			alt="IMG-DISCOVER">
+			src="../images/icons/mastercard.png" alt="IMG-MASTERCARD">
+		</a> <a href="#"> <img class="h-size2"
+			src="../images/icons/express.png" alt="IMG-EXPRESS">
+		</a> <a href="#"> <img class="h-size2"
+			src="../images/icons/discover.png" alt="IMG-DISCOVER">
 		</a>
 
 		<div class="t-center s-text8 p-t-20">
@@ -631,16 +633,17 @@
 
 
 	<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript"
+		src="../vendor/jquery/jquery-3.2.1.min.js"></script>
 	<!--===============================================================================================-->
 	<script type="text/javascript"
-		src="vendor/animsition/js/animsition.min.js"></script>
+		src="../vendor/animsition/js/animsition.min.js"></script>
 	<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/bootstrap/js/popper.js"></script>
+	<script type="text/javascript" src="../vendor/bootstrap/js/popper.js"></script>
 	<script type="text/javascript"
-		src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		src="../vendor/bootstrap/js/bootstrap.min.js"></script>
 	<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/select2/select2.min.js"></script>
+	<script type="text/javascript" src="../vendor/select2/select2.min.js"></script>
 	<script type="text/javascript">
 		$(".selection-1").select2({
 			minimumResultsForSearch: 20,
@@ -654,15 +657,15 @@
 	</script>
 	<!--===============================================================================================-->
 	<script type="text/javascript"
-		src="vendor/daterangepicker/moment.min.js"></script>
+		src="../vendor/daterangepicker/moment.min.js"></script>
 	<script type="text/javascript"
-		src="vendor/daterangepicker/daterangepicker.js"></script>
+		src="../vendor/daterangepicker/daterangepicker.js"></script>
 	<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/slick/slick.min.js"></script>
-	<script type="text/javascript" src="js/slick-custom.js"></script>
+	<script type="text/javascript" src="../vendor/slick/slick.min.js"></script>
+	<script type="text/javascript" src="../js/slick-custom.js"></script>
 	<!--===============================================================================================-->
 	<script type="text/javascript"
-		src="vendor/sweetalert/sweetalert.min.js"></script>
+		src="../vendor/sweetalert/sweetalert.min.js"></script>
 	<script type="text/javascript">
 		$('.block2-btn-addcart').each(function(){
 			var nameProduct = $(this).parent().parent().parent().find('.block2-name').html();
@@ -680,7 +683,7 @@
 	</script>
 
 	<!--===============================================================================================-->
-	<script type="text/javascript" src="vendor/noui/nouislider.min.js"></script>
+	<script type="text/javascript" src="../vendor/noui/nouislider.min.js"></script>
 	<script type="text/javascript">
 		/*[ No ui ]
 	    ===========================================================*/
@@ -705,7 +708,7 @@
 	    });
 	</script>
 	<!--===============================================================================================-->
-	<script src="js/main.js"></script>
+	<script src="../js/main.js"></script>
 
 </body>
 </html>

@@ -1,10 +1,16 @@
 package com.thaibinhnhien.entity;
 
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 
 @Entity
 public class Category {
@@ -18,6 +24,11 @@ public class Category {
 	
 	@Column(name="status")
 	private int status;
+	
+	@OneToMany(cascade = CascadeType.ALL,
+            fetch = FetchType.LAZY,
+            mappedBy = "category")
+    private Set<Product> products = new HashSet<>();
 
 	public Category() {
 		super();
